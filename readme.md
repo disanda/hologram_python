@@ -38,4 +38,4 @@ This is a python demo for  angular_spectrum 2 hologram
 ![reconstruction_map](./rec_p2.bmp)
 
 
-This code is emplemented version from matlab_type ![code](./matlab)
+This code is emplemented version from matlab_type @[code](./matlab)
