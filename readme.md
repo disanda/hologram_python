@@ -15,27 +15,27 @@ This is a python demo for  angular_spectrum 2 hologram
 
 ### we offered:
 
-![real]{./p2.bmp}
+![real](./p2.bmp)
 
 - holointensity_map
 
-![holointensity_map]{./holointensity_p2.bmp}
+![holointensity_map](./holointensity_p2.bmp)
 
 - holophase_map
 
-![holophase_map]{./holophase_p2.bmp}
+![holophase_map](./holophase_p2.bmp)
 
 - holoreal_real_map
 
-![holoreal_real_map]{./holoreal_p2.bmp}
+![holoreal_real_map](./holoreal_p2.bmp)
 
 - holoimag_map
 
-![holoimag_map]{./holoimag_p2.bmp}
+![holoimag_map](./holoimag_p2.bmp)
 
 - reconstruction_map
 
-![reconstruction_map]{./rec_p2.bmp}
+![reconstruction_map](./rec_p2.bmp)
 
 
-This code is emplemented version from matlab_type ![code]{./matlab}
+This code is emplemented version from matlab_type ![code](./matlab)
